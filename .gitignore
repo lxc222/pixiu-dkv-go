@@ -1,0 +1,19 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+
+*.test
+*.log
+
+*.out
+target/
+coverage.txt
+goleveldb_data/
+
+logs/
+
+# jetbrains
+.idea/
+*.iml
